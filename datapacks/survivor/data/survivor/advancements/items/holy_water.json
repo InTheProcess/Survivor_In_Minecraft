@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "holy water": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:honey_bottle",
+                    "nbt": "{survivor.items.holy_water:1b}"
+                }
+            }
+        }
+    }
+}
