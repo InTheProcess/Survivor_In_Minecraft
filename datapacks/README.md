@@ -3,3 +3,6 @@ In this folder, we store all the datapacks for survivor.  The datapack, `survivo
 
 # How to use:
 Simply, open a text editor and start making modifications.  Test it in Minecraft and submit it to your branch.
+
+# TODO List:
+(Coming soon!)
