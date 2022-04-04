@@ -8,3 +8,6 @@ Once you have that, just download the software and run.  To open the world file,
 
 When uploading a build to github, make a pull request and<br> name the file in the following format:
 `Survivor_build(build#)`
+
+# TODO List:
+(Coming soon!)
