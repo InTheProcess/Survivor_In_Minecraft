@@ -11,8 +11,9 @@ what needs to be done and how to do it in each section. <br>
 
 
 # Progress:
-
+(coming soon!)
+<!---
 ![Map progress: 5%](https://progress-bar.dev/5?title=Map) <br>
 ![Structures progress: 5%](https://progress-bar.dev/5?title=Structures) <br>
 ![Datapacks progress: 5%](https://progress-bar.dev/5?title=Datapacks) <br>
-
+--->
