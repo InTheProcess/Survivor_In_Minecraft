@@ -1,5 +1,4 @@
-![](https://progress-bar.dev/<thepercentage>?title=<title>)
-
+<!--- https://progress-bar.dev/<thepercentage>?title=<title> --->
 
 # What is this?
 This is the Survivor SMP Github page.  Here, you can make <br>
