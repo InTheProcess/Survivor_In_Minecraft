@@ -4,7 +4,11 @@
 # What is this?
 This is the Survivor SMP Github page.  Here, you can make <br>
 contributions to help speed up the process.  You can see <br>
-what needs to be done and how to do it in each section.
+what needs to be done and how to do it in each section. <br>
+
+<strong>Have ideas you want to share?</strong>  Please visit our
+[discussions page](https://github.com/InTheProcess/Survivor_In_Minecraft/discussions/categories/ideas).
+
 
 # Progress:
 
