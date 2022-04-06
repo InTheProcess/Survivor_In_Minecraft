@@ -23,11 +23,13 @@ NOTICE: If a task has no subtasks, count it as a subtask when calculating the pe
   - [x] Add a concequence of getting too low of stamina
   - [ ] Add a way to increase max stamina with cap
   - [ ] Create more ways to regenerate and deplete stamina
+  - [ ] Add the ability for the player to choose starting stats using a set amount of points they can use.
 ---------------------------------------------
 - [ ] Add Mental Stamina
   - [ ] Provide basic functionality (Regen and Degen)
   - [ ] Add a concequence of getting too low of stamina
   - [ ] Having concequences for mental strain
+  - [ ] Add the ability for the player to choose starting stats using a set amount of points they can use.
 ---------------------------------------------
 - [ ] Add realistic player physics
   - [ ] Add specific blocks that slow the player down
