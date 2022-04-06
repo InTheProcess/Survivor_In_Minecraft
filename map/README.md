@@ -23,4 +23,10 @@ HOW TO UPDATE MAP PROGRESS:
 5. Update percentage accordingly in the README located in root directory (Example: ![Map progress: 50%](https://progress-bar.dev/50?title=Map))
 -->
 # TODO List:
-(Coming soon!)
+- [ ] Add all structures (Structures needs to be finished first)
+------------------------------------
+- [ ] Add details
+  - [x] Add custom trees 
+  - [ ] Add the little things
+------------------------------------
+- [ ] Blend all biomes
