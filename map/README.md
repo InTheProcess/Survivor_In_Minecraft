@@ -15,7 +15,7 @@ HOW TO MARK TODOS:
 - [x] This task is done #prio1
 - [ ] This task hasn't been completed 
 
-HOW TO UPDATE DATAPACK PROGRESS:
+HOW TO UPDATE MAP PROGRESS:
 1. Get the amount of subtasks
 2. Get the amount of subtasks completed
 3. Divide the amount of subtasks completed by the total amount of subtasks
