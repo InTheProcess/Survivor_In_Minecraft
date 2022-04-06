@@ -1,4 +1,5 @@
 <!--- https://progress-bar.dev/<thepercentage>?title=<title> --->
+NOTICE THAT ALL OF THE STUFF MADE HERE IS MADE FOR **MINECRAFT VERSION 1.17.1.**  DO NOT USE OTHER VERSIONS.
 
 # What is this?
 This is the Survivor SMP Github page.  Here, you can make <br>
