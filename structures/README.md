@@ -12,6 +12,7 @@ HOW TO MARK TODOS:
 - [ ] This task hasn't been completed 
 
 HOW TO UPDATE STRUCTURES PROGRESS:
+NOTICE: If a task has no subtasks, count it as a subtask when calculating the percentage.
 1. Get the amount of subtasks
 2. Get the amount of subtasks completed
 3. Divide the amount of subtasks completed by the total amount of subtasks
