@@ -6,10 +6,8 @@ Once you have that, just download the software and run.  To open the world file,
 
 `FILE > Open World`<br>
 
-When uploading a build to github, make a pull request and<br> name the file in the following format:
-`Survivor_build(build#)`
-
-
+When uploading a build to github, export it to a Minecraft world and put the 2 in a folder.<br>  Then compress it into a .zip format.  Once completed,
+upload the file by the following format:<br> `Survivor_build<build number>`.
 <!--
 HOW TO MARK TODOS:
 - [x] This task is done #prio1
