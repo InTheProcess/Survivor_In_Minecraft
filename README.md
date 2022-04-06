@@ -11,9 +11,8 @@ what needs to be done and how to do it in each section. <br>
 
 # Progress for Alpha version:
 ![Datapacks progress: 24%](https://progress-bar.dev/24?title=Datapacks) <br>
+![Map progress: 25%](https://progress-bar.dev/25?title=Map) <br>
 (others coming soon!)
 <!---
-![Map progress: 5%](https://progress-bar.dev/5?title=Map) <br>
 ![Structures progress: 5%](https://progress-bar.dev/5?title=Structures) <br>
-![Datapacks progress: 5%](https://progress-bar.dev/5?title=Datapacks) <br>
 --->
