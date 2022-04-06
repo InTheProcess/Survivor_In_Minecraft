@@ -9,5 +9,18 @@ Once you have that, just download the software and run.  To open the world file,
 When uploading a build to github, make a pull request and<br> name the file in the following format:
 `Survivor_build(build#)`
 
+
+<!--
+HOW TO MARK TODOS:
+- [x] This task is done #prio1
+- [ ] This task hasn't been completed 
+
+HOW TO UPDATE DATAPACK PROGRESS:
+1. Get the amount of subtasks
+2. Get the amount of subtasks completed
+3. Divide the amount of subtasks completed by the total amount of subtasks
+4. Muliply your answer by 100
+5. Update percentage accordingly in the README located in root directory (Example: ![Map progress: 50%](https://progress-bar.dev/50?title=Map))
+-->
 # TODO List:
 (Coming soon!)
