@@ -9,7 +9,7 @@ what needs to be done and how to do it in each section. <br>
 [discussions page](https://github.com/InTheProcess/Survivor_In_Minecraft/discussions/categories/ideas).
 
 
-# Progress for Alpha version:
+# Progress for Beta version:
 ![Map progress: 25%](https://progress-bar.dev/25?title=Map) <br>
 ![Datapacks progress: 24%](https://progress-bar.dev/24?title=Datapacks) <br>
 ![Structures progress: 5%](https://progress-bar.dev/4?title=Structures) <br><br>
