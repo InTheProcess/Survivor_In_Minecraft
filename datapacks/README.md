@@ -35,10 +35,11 @@ NOTICE: If a task has no subtasks, count it as a subtask when calculating the pe
   - [ ] Add specific blocks that slow the player down
   - [ ] If rain is falling from the sky, slow them down
 ---------------------------------------------
-- [ ] Make global variations
+- [ ] Make global changes
   - [ ]  Slow down day & night cycle by a considerable amount
   - [ ]  No monster spawning and targeted animal spawning (animals have a rare chance to spawn next to players when near their base)
   - [ ]  Map all general structure positions (example: Tribal Council)
+  - [ ] Add voting system
 ---------------------------------------------
 - [ ] Complete challenge features
   - [ ] Add an intuitive tutorial system
@@ -48,10 +49,19 @@ NOTICE: If a task has no subtasks, count it as a subtask when calculating the pe
   - [ ] Add 38 immunity challenges
   - [ ] Add at least 12 different reward challenge rewards (not including structure rewards)
   - [ ] Add at least 5 different reward challenge structure rewards
+  - [ ] Create challenge builder making it easier to make levels
+  - [ ] Add team specific scoreboards for challenge related events
 ---------------------------------------------
 - [ ] Add chest loot
   - [x] Add Holy Water item (Regenerates Physical Stamina)
   - [ ] Get a list of at least 20 loot ideas
+ ---------------------------------------------
+ - [ ] Add team system
+  - [x] Separate players between Host, Red, and Blue team
+  - [ ] Add configurable team bases
+  - [x] Configure interteam and team related rules
+  - [ ] Add team name generator (picked by the leader of the team)
+  - [ ] Add special item to return home that only works when no local team events are happening (with cooldown)
 ---------------------------------------------
 - [ ] Create an anti-cheat system
   - [x] Add client whitelist
