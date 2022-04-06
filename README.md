@@ -12,6 +12,6 @@ what needs to be done and how to do it in each section. <br>
 
 # Progress for Beta version:
 ![Map progress: 25%](https://progress-bar.dev/25?title=Map) <br>
-![Datapacks progress: 22%](https://progress-bar.dev/24?title=Datapacks) <br>
-![Structures progress: 5%](https://progress-bar.dev/4?title=Structures) <br><br>
-![Overall progress: 14%](https://progress-bar.dev/14?title=Overall)
+![Datapacks progress: 22%](https://progress-bar.dev/22?title=Datapacks) <br>
+![Structures progress: 4%](https://progress-bar.dev/4?title=Structures) <br><br>
+![Overall progress: 15%](https://progress-bar.dev/15?title=Overall)
