@@ -14,4 +14,6 @@ what needs to be done and how to do it in each section. <br>
 ![Map progress: 25%](https://progress-bar.dev/25?title=Map) <br>
 ![Datapacks progress: 22%](https://progress-bar.dev/22?title=Datapacks) <br>
 ![Structures progress: 4%](https://progress-bar.dev/4?title=Structures) <br><br>
-![Overall progress: 15%](https://progress-bar.dev/15?title=Overall)
+![Overall progress: 15%](https://progress-bar.dev/15?title=Overall)<br>
+
+(last updated 3/5/2022)
