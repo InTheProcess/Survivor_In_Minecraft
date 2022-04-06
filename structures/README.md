@@ -12,12 +12,9 @@ HOW TO MARK TODOS:
 - [ ] This task hasn't been completed 
 
 HOW TO UPDATE STRUCTURES PROGRESS:
-NOTICE: If a task has no subtasks, count it as a subtask when calculating the percentage.
-1. Get the amount of subtasks
-2. Get the amount of subtasks completed
-3. Divide the amount of subtasks completed by the total amount of subtasks
-4. Muliply your answer by 100
-5. Update percentage accordingly in the README located in root directory (Example: ![Structures progress: 50%](https://progress-bar.dev/50?title=Structures))
+1. Divide the amount of structures completed by the amount of structures total amount of structures requested.
+2. Muliply your answer by 100
+3. Update percentage accordingly in the README located in root directory (Example: ![Structures progress: 50%](https://progress-bar.dev/50?title=Structures))
 -->
 # TODO List:
-(Coming soon!)
+1 / 25 structures complete
