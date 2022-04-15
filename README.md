@@ -10,6 +10,27 @@ what needs to be done and how to do it in each section. <br>
 [discussions page](https://github.com/InTheProcess/Survivor_In_Minecraft/discussions/categories/ideas).
 
 
+# Naming branches
+### `<type>/<name>`
+
+#### `<type>`
+```
+bug    - Code changes linked to a known issue.
+feat   - New feature.
+hotfix - Quick fixes to the codebase.
+junk   - Experiments (will never be merged).
+```
+
+#### `<name>`
+Always use dashes to seperate words, and keep it short.
+
+#### Examples
+```
+feat/renderer-cookies
+hotfix/dockerfile-base-image
+bug/login-ie
+```
+
 # Progress for Beta version:
 ![Map progress: 25%](https://progress-bar.dev/25?title=Map) <br>
 ![Datapacks progress: 22%](https://progress-bar.dev/22?title=Datapacks) <br>
